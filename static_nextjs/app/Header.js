@@ -6,6 +6,7 @@ const Header = () => {
       <div className='nav-bar'>
         <h3 className='heading'>Next Js</h3>
         <div className='li-element'>
+        
         <li className='li'>Home</li>
         <li className='li'>About</li>
         <li className='li'>Services</li>
